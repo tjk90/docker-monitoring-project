@@ -52,12 +52,12 @@ docker compose up -d --build
 
 ---
 
+### 3. Monitor
 ## 📊 Metrics Example
 
 Query in Prometheus:
 
 ```bash
-Copy and paste and click Execute:
 http_requests_total
 ```
 
