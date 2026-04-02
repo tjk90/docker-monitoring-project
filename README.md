@@ -46,7 +46,7 @@ docker compose up -d --build
 
 ## 🌐 Access
 
-* App: http://localhost:3000
+* App (test it): http://localhost:3000
 * Prometheus: http://localhost:9090
 * Grafana: http://localhost:3001
 
@@ -54,9 +54,9 @@ docker compose up -d --build
 
 ## 📊 Metrics Example
 
-Query in Prometheus:
-
-```
+Query in Prometheus
+Copy and paste and click Execute:
+```bash
 http_requests_total
 ```
 
