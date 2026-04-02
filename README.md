@@ -31,7 +31,8 @@ Node.js App → Prometheus → Grafana
 ### 1. Clone repo
 
 ```bash
-git clone <your-repo-url>
+
+git clone git@github.com:tjk90/docker-monitoring-project.git
 cd docker-monitoring-project
 ```
 
@@ -81,4 +82,4 @@ http_requests_total
 
 ## 👨‍💻 Author
 
-Your Name
+Tairone.K
