@@ -54,9 +54,10 @@ docker compose up -d --build
 
 ## 📊 Metrics Example
 
-Query in Prometheus
-Copy and paste and click Execute:
+Query in Prometheus:
+
 ```bash
+Copy and paste and click Execute:
 http_requests_total
 ```
 
